@@ -91,3 +91,33 @@ d. Amazon Athena: Serverless query service used to analyze data directly in S3 u
 # Deliverables
 
 ![image](https://github.com/user-attachments/assets/8f185421-0546-4d2b-aa8f-a81b47d7973a)
+
+# AWS Deployment and Service Models
+![image](https://github.com/user-attachments/assets/947adcca-4d30-4500-a81f-a5b4aed9c880)
+![Screenshot (501)](https://github.com/user-attachments/assets/c399a875-9251-46b7-87c9-389e24131b3a)
+![Screenshot (502)](https://github.com/user-attachments/assets/a04fdf11-e25f-4dbe-bbfa-1b23a01e885a)
+![Screenshot (503)](https://github.com/user-attachments/assets/8fb29a8b-1078-4ca0-869e-f09942f8f13c)
+
+I used Draw.io to design a clear, structured diagram comparing cloud deployment models—Private, Public, Hybrid, and Multi-Cloud—focusing on their key differences in infrastructure location, access management, and security responsibilities. I organized the diagram to highlight how cloud solutions (like AWS) offer more flexibility and scalability than traditional on-premises setups, using real-world examples like virtual servers in Virginia or AWS's global infrastructure. This visual helped reinforce the concepts from my case study, making complex cloud architectures easier to understand at a glance.
+# AWS Cost Analysis 
+![image](https://github.com/user-attachments/assets/a8268f04-e830-431e-8df7-94e51adab065)
+![image](https://github.com/user-attachments/assets/a662d716-a5f9-4f28-a81d-bbb56aaaf4a8)
+![image](https://github.com/user-attachments/assets/b1b90d5e-e6b1-43f4-9932-3cefd5da8d8a)
+![image](https://github.com/user-attachments/assets/ff8bd495-217d-4337-877f-b52c03dfcac3)
+I analyzed Case Study #4 on Delaware North's cloud migration to AWS, which highlights their shift from on-premises data centers to AWS, resulting in a 30% server reduction, cost savings via EC2 Reserved Instances, and improved operational efficiency. Additionally, I reviewed Case Study #5 and completed the AWS Academy Module 2 Knowledge Check.
+# AWS Global infrastructure
+![image](https://github.com/user-attachments/assets/c08e235a-8ced-4e7f-92ce-409e9a226959)
+![image](https://github.com/user-attachments/assets/585b6f6b-3274-42d3-b549-b779b346f997)
+Case Study #7 deepened my understanding of AWS's global architecture—particularly Regions, Edge Locations, and the shared security model between AWS and clients like UCIV for low-latency data delivery. 
+# AWS IAM 
+![image](https://github.com/user-attachments/assets/ab5d9469-092b-4c48-af5d-7765f2d9f110)
+This diagram illustrates the shared responsibility model between AWS and UCW, showing UCW's role in managing EC2 instances, software security, and data protection while AWS handles the underlying infrastructure. It also maps these responsibilities across Availability Zones (1-8) and categorizes the dataset environment into software, platform, and network components.
+# AWS VPC
+![image](https://github.com/user-attachments/assets/7a1532f3-3a05-438b-8ceb-a3dff5919a75)
+# AWS Lambda 
+![image](https://github.com/user-attachments/assets/cebdbd78-f659-49f3-9b32-7d5f5403e6bb)
+I created Lambda; however, the instance didn't stop.
+# AWS EBS
+![image](https://github.com/user-attachments/assets/ca538ac6-bbea-4c67-a4bf-593465feb6b4)
+![image](https://github.com/user-attachments/assets/e643b49d-4937-42ae-9ada-f352aac6ebc4)
+While creAating EC2, an error message occured saying the code was not found.
