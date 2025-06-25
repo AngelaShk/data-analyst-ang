@@ -120,4 +120,4 @@ I created Lambda; however, the instance didn't stop.
 # AWS EBS
 ![image](https://github.com/user-attachments/assets/ca538ac6-bbea-4c67-a4bf-593465feb6b4)
 ![image](https://github.com/user-attachments/assets/e643b49d-4937-42ae-9ada-f352aac6ebc4)
-While creAating EC2, an error message occured saying the code was not found.
+While creating EC2, an error message occured saying the code was not found.
