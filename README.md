@@ -65,8 +65,8 @@ B. Key Data Metrics:
 C. Data Integration:
 - The project combines data from two key datasets:
 - Student Demographics (Age, Gender, Ethnicity, Enrollment Status)
-Retention Records (Status and Dates)
-Inner Join was used to enrich the data for analysis.
+- Retention Records (Status and Dates)
+- Inner Join was used to enrich the data for analysis.
 
 6- Recommendations
 - Add a Centralized Data Dictionary Sheet:
@@ -80,10 +80,14 @@ a. Amazon S3 (Simple Storage Service)
 
 b. AWS Glue
 - Managed ETL service for data transformation and integration.
-- Includes both Glue Jobs and Glue Data Catalog for managing and tracking datasets.
+- Includes both Glue Jobs and Glue Data Catalogue for managing and tracking datasets.
 
 c. AWS Glue DataBrew: No-code data preparation tool used to visually clean and transform raw academic data.
 
 d. Amazon Athena: Serverless query service used to analyze data directly in S3 using SQL.
 
 ![image](https://github.com/user-attachments/assets/35c06133-900c-4904-8498-5c5820209291)
+
+# Deliverables
+
+![image](https://github.com/user-attachments/assets/8f185421-0546-4d2b-aa8f-a81b47d7973a)
